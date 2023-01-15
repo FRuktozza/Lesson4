@@ -1,0 +1,15 @@
+E:\Dev (E)\Заказы\140123 задачи си шарп\Task27\bin\Debug\net7.0\Task27.exe
+E:\Dev (E)\Заказы\140123 задачи си шарп\Task27\bin\Debug\net7.0\Task27.deps.json
+E:\Dev (E)\Заказы\140123 задачи си шарп\Task27\bin\Debug\net7.0\Task27.runtimeconfig.json
+E:\Dev (E)\Заказы\140123 задачи си шарп\Task27\bin\Debug\net7.0\Task27.dll
+E:\Dev (E)\Заказы\140123 задачи си шарп\Task27\bin\Debug\net7.0\Task27.pdb
+E:\Dev (E)\Заказы\140123 задачи си шарп\Task27\obj\Debug\net7.0\Task27.csproj.AssemblyReference.cache
+E:\Dev (E)\Заказы\140123 задачи си шарп\Task27\obj\Debug\net7.0\Task27.GeneratedMSBuildEditorConfig.editorconfig
+E:\Dev (E)\Заказы\140123 задачи си шарп\Task27\obj\Debug\net7.0\Task27.AssemblyInfoInputs.cache
+E:\Dev (E)\Заказы\140123 задачи си шарп\Task27\obj\Debug\net7.0\Task27.AssemblyInfo.cs
+E:\Dev (E)\Заказы\140123 задачи си шарп\Task27\obj\Debug\net7.0\Task27.csproj.CoreCompileInputs.cache
+E:\Dev (E)\Заказы\140123 задачи си шарп\Task27\obj\Debug\net7.0\Task27.dll
+E:\Dev (E)\Заказы\140123 задачи си шарп\Task27\obj\Debug\net7.0\refint\Task27.dll
+E:\Dev (E)\Заказы\140123 задачи си шарп\Task27\obj\Debug\net7.0\Task27.pdb
+E:\Dev (E)\Заказы\140123 задачи си шарп\Task27\obj\Debug\net7.0\Task27.genruntimeconfig.cache
+E:\Dev (E)\Заказы\140123 задачи си шарп\Task27\obj\Debug\net7.0\ref\Task27.dll

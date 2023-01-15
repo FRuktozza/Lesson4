@@ -1,0 +1,15 @@
+E:\Dev (E)\Заказы\140123 задачи си шарп\Binary\obj\Debug\net7.0\Binary.csproj.AssemblyReference.cache
+E:\Dev (E)\Заказы\140123 задачи си шарп\Binary\obj\Debug\net7.0\Binary.GeneratedMSBuildEditorConfig.editorconfig
+E:\Dev (E)\Заказы\140123 задачи си шарп\Binary\obj\Debug\net7.0\Binary.AssemblyInfoInputs.cache
+E:\Dev (E)\Заказы\140123 задачи си шарп\Binary\obj\Debug\net7.0\Binary.AssemblyInfo.cs
+E:\Dev (E)\Заказы\140123 задачи си шарп\Binary\obj\Debug\net7.0\Binary.csproj.CoreCompileInputs.cache
+E:\Dev (E)\Заказы\140123 задачи си шарп\Binary\bin\Debug\net7.0\Binary.exe
+E:\Dev (E)\Заказы\140123 задачи си шарп\Binary\bin\Debug\net7.0\Binary.deps.json
+E:\Dev (E)\Заказы\140123 задачи си шарп\Binary\bin\Debug\net7.0\Binary.runtimeconfig.json
+E:\Dev (E)\Заказы\140123 задачи си шарп\Binary\bin\Debug\net7.0\Binary.dll
+E:\Dev (E)\Заказы\140123 задачи си шарп\Binary\bin\Debug\net7.0\Binary.pdb
+E:\Dev (E)\Заказы\140123 задачи си шарп\Binary\obj\Debug\net7.0\Binary.dll
+E:\Dev (E)\Заказы\140123 задачи си шарп\Binary\obj\Debug\net7.0\refint\Binary.dll
+E:\Dev (E)\Заказы\140123 задачи си шарп\Binary\obj\Debug\net7.0\Binary.pdb
+E:\Dev (E)\Заказы\140123 задачи си шарп\Binary\obj\Debug\net7.0\Binary.genruntimeconfig.cache
+E:\Dev (E)\Заказы\140123 задачи си шарп\Binary\obj\Debug\net7.0\ref\Binary.dll
